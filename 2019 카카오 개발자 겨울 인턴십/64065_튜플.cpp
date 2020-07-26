@@ -7,7 +7,6 @@ using namespace std;
 vector<int> solution(string s) {
     vector<int> answer;
     map<string, int> map;
-    int countBracket = 0;
     string key = "";
     
     for (int i = 0; i < s.size(); i++) {
