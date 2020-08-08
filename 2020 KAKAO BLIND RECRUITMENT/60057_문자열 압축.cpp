@@ -24,7 +24,6 @@ int solution(string s) {
             }
             else {
                 string top = stack_str.top();
-                //cout << top << ' ' << str << '\n';
                 if (top.compare(str) == 0) {
                     int count = stack_count.top();
                     stack_count.pop();
