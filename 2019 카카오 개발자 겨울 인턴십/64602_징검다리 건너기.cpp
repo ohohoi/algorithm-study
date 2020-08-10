@@ -27,7 +27,7 @@ int solution(vector<int> stones, int k) {
     int right = *max_element(stones.begin(), stones.end());
 
     while (left <= right) {
-        int mid = (left + right) / 2;
+        int mid = left + (right - left) / 2;
         bool small = check_mid_is_small(stones, mid, k);
         if (small) {
             right = mid - 1;
