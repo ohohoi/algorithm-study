@@ -1,4 +1,3 @@
-#include <iostream>
 #include <string>
 #include <vector>
 #include <algorithm>
@@ -17,16 +16,4 @@ vector<int> solution(vector<int> numbers) {
     sort(answer.begin(), answer.end());
     answer.erase(unique(answer.begin(), answer.end()), answer.end());
     return answer;
-}
-
-int main() {
-    int arr[5] = {5,0,2,7};
-    vector<int> numbers(arr, arr + 4);
-    vector<int> answer = solution(numbers);
-    for (int i = 0; i < answer.size(); i++) {
-        cout << answer[i] << ' ';
-    }
-    cout << '\n';
-    
-    return 0;
 }
