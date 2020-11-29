@@ -9,6 +9,10 @@
     Dinamic Programming 
   </a>
   
+- <a href="https://github.com/ohohoi/algorithm-study/tree/master/Binary%20Search">
+    Binary Search
+  </a>
+  
 - <a href="https://github.com/ohohoi/algorithm-study/tree/master/BFS%2C%20DFS">
     BFS & DFS
   </a>
