@@ -17,19 +17,19 @@
     BFS & DFS
   </a>
 
-- <a href="">
+- <a href="https://github.com/ohohoi/algorithm-study/tree/master/Two%20Pointer">
     Two Pointer
   </a>
     
-- <a href="">
+- <a href="https://github.com/ohohoi/algorithm-study/tree/master/Sliding%20Window">
     Sliding Window
   </a>
 
-- <a href="">
+- <a href="https://github.com/ohohoi/algorithm-study/tree/master/Union%20Find">
     Union Find
   </a>
   
-- <a href="">
+- <a href="https://github.com/ohohoi/algorithm-study/tree/master/Segment%20Tree">
     Segment Tree
   </a>   
   
@@ -37,7 +37,7 @@
     DFA
   </a>
   
-- <a href="">
+- <a href="https://github.com/ohohoi/algorithm-study/tree/master/KMP">
     KMP
   </a>
   
