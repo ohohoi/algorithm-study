@@ -1,6 +1,14 @@
 # Algorithm Problem Solving Practice
 
 ## 💡 Types of Algorithm  
+- <a href="https://github.com/ohohoi/algorithm-study/tree/master/%EA%B5%AC%ED%98%84">
+    구현
+  </a>
+  
+- <a href="https://github.com/ohohoi/algorithm-study/tree/master/Sort">
+    Sort
+  </a>
+  
 - <a href="https://github.com/ohohoi/algorithm-study/tree/master/Greedy%20Algorithm">
     Greedy
   </a>
@@ -25,6 +33,10 @@
     Sliding Window
   </a>
 
+- <a href="https://github.com/ohohoi/algorithm-study/tree/master/Dijkstra">
+    Dijkstra
+  </a>
+
 - <a href="https://github.com/ohohoi/algorithm-study/tree/master/Union%20Find">
     Union Find
   </a>
@@ -32,6 +44,10 @@
 - <a href="https://github.com/ohohoi/algorithm-study/tree/master/Segment%20Tree">
     Segment Tree
   </a>   
+
+- <a href="https://github.com/ohohoi/algorithm-study/tree/master/Priority%20Queue">
+    Priority Queue
+  </a>
   
 - <a href="https://github.com/ohohoi/algorithm-study/tree/master/DFA(Deterministic%20finite%20automaton)">
     DFA
@@ -53,6 +69,10 @@
   
 - <a href="https://github.com/ohohoi/algorithm-study/tree/master/2020%20KAKAO%20BLIND%20RECRUITMENT">
     2020 KAKAO BLIND RECRUITMENT
+  </a>
+  
+- <a href="https://github.com/ohohoi/algorithm-study/tree/master/2021%20KAKAO%20BLIND%20RECRUITMENT">
+    2021 KAKAO BLIND RECRUITMENT
   </a>
   
 - <a href="https://github.com/ohohoi/algorithm-study/tree/master/%EC%82%BC%EC%84%B1%20SW%20%EC%97%AD%EB%9F%89%20%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EA%B8%B0%EC%B6%9C%20%EB%AC%B8%EC%A0%9C">
